@@ -43,4 +43,3 @@ I'm a software engineering student 💻, gaming !
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericklevy&layout=compact)](https://github.com/Ericklevy)
 
 
-view rawREADME.txt hosted with ❤ by GitHub
