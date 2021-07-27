@@ -41,7 +41,6 @@ I'm a software engineering student 💻, gaming !
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ericklevy)](https://github.com/Ericklevy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericklevy&layout=compact)](https://github.com/Ericklevy)
-[![Ericklevy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ericklevy)](https://github.com/Ericklevy)
 
 
 view rawREADME.txt hosted with ❤ by GitHub
